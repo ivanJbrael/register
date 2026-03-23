@@ -1,9 +1,7 @@
-{
-  "owner": {
-    "username": "ivanJbrael",
-    "email": "ivan.jbrael8@gmail.com"
-  },
-  "record": {
-    "CNAME": "cname.vercel-dns.com"
-  }
+"owner": {
+  "username": "ivanJbrael",
+  "email": "ivan.jbrael8@gmail.com"
+},
+"record": {
+  "CNAME": "cname.vercel-dns.com"
 }
